@@ -4,7 +4,7 @@ This GithHub page hosts the source code for the mods that are made and released 
 
 Discord: https://discord.gg/hX3a63RYzZ
 
-YouTube: https://www.youtube.com/channel/UCVVxdZT8jgRHNhmde63G77Q/about
+YouTube: https://www.youtube.com/channel/UCVVxdZT8jgRHNhmde63G77Q/
 
 <!---
 TeamAquasHideout/TeamAquasHideout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
